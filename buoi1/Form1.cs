@@ -19,7 +19,7 @@ namespace buoi1
         }
         public int tonghaiso(int a , int b)
         {
-            return a+b; acv
+            return a+b;
         }
 
     }
