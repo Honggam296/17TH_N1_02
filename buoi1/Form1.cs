@@ -15,6 +15,11 @@ namespace buoi1
         public Form1()
         {
             InitializeComponent();
+            int Tong=tonghaiso(1,1);
+        }
+        public int tonghaiso(int a , int b)
+        {
+            return a+b;
         }
 
     }
